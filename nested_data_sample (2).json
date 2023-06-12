@@ -1,10 +1,10 @@
 {
-	"_id" : ObjectId("63b51f92a7ffdb350735b972"),
+	"_id" : "63b51f92a7ffdb350735b972",
 	"mobileNumber" : "123456789",
 	"memberId" : "abc@gmail.com",
-	"totalBalance" : NumberLong(71612),
+	"totalBalance" : 71612,
 	"refreshLocked" : false,
-	"lastUpdatedAt" : ISODate("2023-04-06T13:26:02.143Z"),
+	"lastUpdatedAt" : "2023-04-06T13:26:02.143Z",
 	"epfoUanList" : [
 		{
 			"uan" : "lnxmkYvk/O2RXOQqxrYQ==",
@@ -13,7 +13,7 @@
 					"memberId" : "xxxxxxx00251220000020479",
 					"establishmentName" : "XYZ",
 					"officeId" : "203",
-					"totalBalance" : NumberLong(53463),
+					"totalBalance" : 53463,
 					"epfoUserEmploymentData" : {
 						"name" : "Vvvvvvvvvvvvvvvvv",
 						"fatherName" : "Rrrrrrrrrrrr",
@@ -21,10 +21,10 @@
 						"memberId" : "GNG0033000011802",
 						"officeName" : "(RO)GURGAON",
 						"officeId" : "203",
-						"totalEmployerShare" : NumberLong(8172),
-						"totalEmployeeShare" : NumberLong(26743),
-						"totalPensionShare" : NumberLong(18548),
-						"dateOfJoining" : ISODate("2021-12-06T00:00:00Z"),
+						"totalEmployerShare" : 8172,
+						"totalEmployeeShare" : 26743,
+						"totalPensionShare" : 18548,
+						"dateOfJoining" : "2021-12-06T00:00:00Z",
 						"epfoPassbookEntryEntries" : [
 							{
 								"status" : "credited",
@@ -203,7 +203,7 @@
 					"memberId" : "xxxxxxx00251220000020479",
 					"establishmentName" : "SOFTWARE PVT LTD.                        N",
 					"officeId" : "203",
-					"totalBalance" : NumberLong(18149),
+					"totalBalance" : 18149,
 					"epfoUserEmploymentData" : {
 						"name" : "XYZ",
 						"fatherName" : "ABC",
@@ -211,10 +211,10 @@
 						"memberId" : "xxxxxxx00251220000020479",
 						"officeName" : "(RO)GURGAON",
 						"officeId" : "203",
-						"totalEmployerShare" : NumberLong(2804),
-						"totalEmployeeShare" : NumberLong(9176),
-						"totalPensionShare" : NumberLong(6169),
-						"dateOfJoining" : ISODate("2021-07-06T00:00:00Z"),
+						"totalEmployerShare" : 2804,
+						"totalEmployeeShare" : 9176,
+						"totalPensionShare" : 6169,
+						"dateOfJoining" : "2021-07-06T00:00:00Z",
 						"epfoPassbookEntryEntries" : [
 							{
 								"status" : "credited",
