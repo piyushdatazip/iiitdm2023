@@ -1,0 +1,305 @@
+{
+	"_id" : ObjectId("63b51f92a7ffdb350735b972"),
+	"mobileNumber" : "123456789",
+	"memberId" : "abc@gmail.com",
+	"totalBalance" : NumberLong(71612),
+	"refreshLocked" : false,
+	"lastUpdatedAt" : ISODate("2023-04-06T13:26:02.143Z"),
+	"epfoUanList" : [
+		{
+			"uan" : "lnxmkYvk/O2RXOQqxrYQ==",
+			"epfoEmployers" : [
+				{
+					"memberId" : "xxxxxxx00251220000020479",
+					"establishmentName" : "XYZ",
+					"officeId" : "203",
+					"totalBalance" : NumberLong(53463),
+					"epfoUserEmploymentData" : {
+						"name" : "Vvvvvvvvvvvvvvvvv",
+						"fatherName" : "Rrrrrrrrrrrr",
+						"dateOfBirth" : "0000-00-00",
+						"memberId" : "GNG0033000011802",
+						"officeName" : "(RO)GURGAON",
+						"officeId" : "203",
+						"totalEmployerShare" : NumberLong(8172),
+						"totalEmployeeShare" : NumberLong(26743),
+						"totalPensionShare" : NumberLong(18548),
+						"dateOfJoining" : ISODate("2021-12-06T00:00:00Z"),
+						"epfoPassbookEntryEntries" : [
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 032023",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "03",
+								"year" : "2023",
+								"dateOfApproval" : "2023-03-13"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 022023",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "02",
+								"year" : "2023",
+								"dateOfApproval" : "2023-02-14"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 012023",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "01",
+								"year" : "2023",
+								"dateOfApproval" : "2023-01-09"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 122022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "12",
+								"year" : "2022",
+								"dateOfApproval" : "2022-12-13"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 112022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "11",
+								"year" : "2022",
+								"dateOfApproval" : "2022-11-11"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 102022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "10",
+								"year" : "2022",
+								"dateOfApproval" : "2022-10-12"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 092022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "09",
+								"year" : "2022",
+								"dateOfApproval" : "2022-09-12"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 082022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "08",
+								"year" : "2022",
+								"dateOfApproval" : "2022-08-10"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 072022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "07",
+								"year" : "2022",
+								"dateOfApproval" : "2022-07-12"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 062022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "06",
+								"year" : "2022",
+								"dateOfApproval" : "2022-06-10"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 052022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "05",
+								"year" : "2022",
+								"dateOfApproval" : "2022-05-12"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 042022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "04",
+								"year" : "2022",
+								"dateOfApproval" : "2022-04-13"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 032022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "03",
+								"year" : "2022",
+								"dateOfApproval" : "2022-03-11"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 022022",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "02",
+								"year" : "2022",
+								"dateOfApproval" : "2022-02-14"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 012022",
+								"employeeShare" : "1510",
+								"employerShare" : "462",
+								"pensionShare" : "1048",
+								"month" : "01",
+								"year" : "2022",
+								"dateOfApproval" : "2022-01-14"
+							},
+							{
+								"status" : "credited",
+								"description" : "Int. Updated upto 31/03/2022",
+								"employeeShare" : "33",
+								"employerShare" : "10",
+								"pensionShare" : "0",
+								"month" : "04",
+								"year" : "2021",
+								"dateOfApproval" : "2023-01-19"
+							},
+							{
+								"status" : "credited",
+								"description" : "OB Int. Updated upto 31/03/2021",
+								"employeeShare" : "0",
+								"employerShare" : "0",
+								"pensionShare" : "0",
+								"month" : "04",
+								"year" : "2021",
+								"dateOfApproval" : "2021-04-01"
+							}
+						]
+					}
+				},
+				{
+					"memberId" : "xxxxxxx00251220000020479",
+					"establishmentName" : "SOFTWARE PVT LTD.                        N",
+					"officeId" : "203",
+					"totalBalance" : NumberLong(18149),
+					"epfoUserEmploymentData" : {
+						"name" : "XYZ",
+						"fatherName" : "ABC",
+						"dateOfBirth" : "0000-00-00",
+						"memberId" : "xxxxxxx00251220000020479",
+						"officeName" : "(RO)GURGAON",
+						"officeId" : "203",
+						"totalEmployerShare" : NumberLong(2804),
+						"totalEmployeeShare" : NumberLong(9176),
+						"totalPensionShare" : NumberLong(6169),
+						"dateOfJoining" : ISODate("2021-07-06T00:00:00Z"),
+						"epfoPassbookEntryEntries" : [
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 012022",
+								"employeeShare" : "174",
+								"employerShare" : "53",
+								"pensionShare" : "121",
+								"month" : "01",
+								"year" : "2022",
+								"dateOfApproval" : "2022-01-14"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 122021",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "12",
+								"year" : "2021",
+								"dateOfApproval" : "2021-12-15"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 112021",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "11",
+								"year" : "2021",
+								"dateOfApproval" : "2021-11-15"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 102021",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "10",
+								"year" : "2021",
+								"dateOfApproval" : "0000-00-00"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 092021",
+								"employeeShare" : "1800",
+								"employerShare" : "550",
+								"pensionShare" : "1250",
+								"month" : "09",
+								"year" : "2021",
+								"dateOfApproval" : "2021-09-13"
+							},
+							{
+								"status" : "credited",
+								"description" : "Cont. For Due-Month 082021",
+								"employeeShare" : "1510",
+								"employerShare" : "462",
+								"pensionShare" : "1048",
+								"month" : "08",
+								"year" : "2021",
+								"dateOfApproval" : "2021-08-12"
+							},
+							{
+								"status" : "credited",
+								"description" : "Int. Updated upto 31/03/2022",
+								"employeeShare" : "292",
+								"employerShare" : "89",
+								"pensionShare" : "0",
+								"month" : "04",
+								"year" : "2021",
+								"dateOfApproval" : "2023-03-06"
+							},
+							{
+								"status" : "credited",
+								"description" : "OB Int. Updated upto 31/03/2021",
+								"employeeShare" : "0",
+								"employerShare" : "0",
+								"pensionShare" : "0",
+								"month" : "04",
+								"year" : "2021",
+								"dateOfApproval" : "2021-04-01"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}
